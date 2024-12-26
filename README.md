@@ -1,19 +1,25 @@
-# Banana_project
-Banana Soil metagenomics
 
-## Metagenomic analysis of bacterial communities in rhizospheric soils from smallholder banana-producing agroecosystems in Kenya
-#Background Information 
-Banana (Musa paradisiaca) is the fourth most important crop in the food market making it the prime leading fruit crop in terms of volume and value worldwide (Alemu, 2017). It is an important staple crop with good nutritional value attributed to its richness in potassium, carbohydrates, and vitamin A (Muthee et al., 2019). Bananas are a staple food crop for Kenya's rural and urban populations (Wahome et al., 2021). Although banana farming is a major economic activity in Kenya, its current production by smallholder farmers does not meet the market demand (Wahome et al., 2023). Banana production in Kiambu County is low  due to the numerous challenges facing production such as agronomic practices, low soil fertility, and pest and disease pressure  (Rossmann et al., 2012). Previous reports indicate that stressors that affect soil biodiversity such as land use patterns, the decline in soil organic matter, and biological degradation of land have led to the loss of aboveground and below-ground biodiversity (Dixit et al., 2024) and (Burton et al., 2022). These factors directly affect banana production and have increased interest in assessing soil health particularly bacterial diversity in soil habitats.
+Microbial communities in the banana rhizosphere are varied and play essential roles in
+promoting plant growth and increasing crop yield. Their abundance in soil habitats is a
+potential indicator of soil health and quality. Despite the well-known benefits of rhizosphere
+microorganisms in banana cultivation, their genomic and functional diversity remains largely
+unexplored within smallholder agroecosystems. Here, we examined the community
+composition and functional potentials of bacteria in the banana rhizospheric soils collected
+from Kiambu, Kenya using Illumina Novaseq sequencing of 16S rRNA gene amplicons and
+shotgun metagenomic profiles. Variations of soil physicochemical parameters across the
+study sites were assessed. The parameters varied across the sites with soils in Gituamba and
+Ngenda depicting better soil fertility characteristics than Mangu. Alpha diversity indicated
+higher bacterial diversity in Gituamba than Mangu, with significant differences in observed
+features and phylogenetic distance metrics. In contrast, a moderate diversity of the bacterial
+community in Ngenda based on Shannon and Simpson indexes was observed. The dominant
+phyla across the study sites were Proteobacteria, Actinobacteria and Cyanobacteria.
+Predicted functional profiling of amplicon gene profiles showed that metabolic pathways
+were significantly enriched in Gituamba than Mangu. Overall, the functional profiling
+indicated that, predicted metabolic pathways across the study sites were linked to genes
+encoded by the members of the most abundant bacterial phyla in the soil environments,
+majorly contributing to beneficial roles for soil health and crop yield. This study offers
+methods to reveal the banana rhizosphere as a rich reservoir for microorganisms of
+agricultural and biotechnological significance, which can promote sustainable agriculture.
 
-### *The problem being solved by the research*
-
-Despite the abundance of bacterial species in soil, more than 99% of these species cannot be cultured by traditional techniques (Pham & Kim, 2012). As a result, the shifts in taxonomic composition and functional diversity of soil bacterial communities in agroecosystems are poorly understood. 
-
-#### *Justification of the study*
-
-To overcome this limitation, meta-omic approaches using next-generation sequencing methods are being applied to explore metagenomes from the environmental samples for the identification of both the taxa and essential genes of special functions or bioactive compounds (Nwachukwu & Babalola, 2022). Currently, two main methods for studying microbial communities using high-throughput sequencing are used: marker gene studies and whole-genome shotgun (WGS) metagenomics (Perez-Mon et al., 2021)
-###### Study objectives
- 
-Herein, we applied both Illumina Novaseq high-throughput amplicon and shotgun sequencing technologies to reveal the composition and functional potential of the bacterial communities in the rhizospheric soils collected from smallholder banana-producing agroecosystems in Kiambu County, Kenya. We also investigated the variation of the soil physicochemical properties within the respective agroecosystems.
-
-## Method 
+Keywords: Bacteria, banana rhizosphere, metagenomics, soil physicochemical properties,
+sustainable agriculture.
